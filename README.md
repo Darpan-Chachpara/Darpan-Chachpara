@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=612x612&w=is&k=20&c=Wxt96phJ-IoLR5RLqt2ycTBFPf9dvixE4af27X2JbJ0=" width="500"/>
+  <img src="https://cdn-developer-wp.arc.dev/wp-content/uploads/2021/12/Do-I-Need-a-Software-Engineering-Degree.jpg" width="700"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/darpan-chachpara-9886a116b">
@@ -15,8 +15,9 @@
  <h1>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DAARPAN CHACHPARA</h1>
 <h3 align="center">A passionate Software Engineer from India! Also freelancer 👨‍💻 working remotely since 2021 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
-
+<div align="center">
+  <img alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darpan-chachpara" alt="darpan-chachpara" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/darpanchachpara" target="blank"><img src="https://img.shields.io/twitter/follow/darpanchachpara?logo=twitter&style=for-the-badge" alt="darpanchachpara" /></a> </p>
