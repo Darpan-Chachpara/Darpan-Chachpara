@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DAARPAN CHACHPARA</h1>
 <h3 align="center">A passionate Software Engineer from India! Also freelancer 👨‍💻 working remotely since 2021 🚀</h3>
-<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1hWbgQN7hT7LkkAPuFxH9rPDdiEdimCOw/view](https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpan-chachpara&label=Profile%20views&color=0e75b6&style=flat" alt="darpan-chachpara" /> </p>
 
