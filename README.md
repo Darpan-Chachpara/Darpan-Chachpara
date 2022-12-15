@@ -1,7 +1,21 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm DAARPAN CHACHPARA</h1>
+<div id="header" align="center">
+  <img src="https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=612x612&w=is&k=20&c=Wxt96phJ-IoLR5RLqt2ycTBFPf9dvixE4af27X2JbJ0=" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/darpan-chachpara-9886a116b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/darpanchachpara?t=74kmDcxDIeFbDou24GsGDg&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darpan-Chachpara&style=flat-square&color=blue" alt=""/>
+  </div>
+ <h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DAARPAN CHACHPARA</h1>
 <h3 align="center">A passionate Software Engineer from India! Also freelancer 👨‍💻 working remotely since 2021 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+<img align="center" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpan-chachpara&label=Profile%20views&color=0e75b6&style=flat" alt="darpan-chachpara" /> </p>
 
