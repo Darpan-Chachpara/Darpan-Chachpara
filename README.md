@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DAARPAN CHACHPARA</h1>
 <h3 align="center">A passionate Software Engineer from India! Also freelancer 👨‍💻 working remotely since 2021 🚀</h3>
-<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1hWbgQN7hT7LkkAPuFxH9rPDdiEdimCOw/view?usp=share_link](https://drive.google.com/file/d/1hWbgQN7hT7LkkAPuFxH9rPDdiEdimCOw/view)">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1hWbgQN7hT7LkkAPuFxH9rPDdiEdimCOw/view">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpan-chachpara&label=Profile%20views&color=0e75b6&style=flat" alt="darpan-chachpara" /> </p>
 
