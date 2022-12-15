@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn-developer-wp.arc.dev/wp-content/uploads/2021/12/Do-I-Need-a-Software-Engineering-Degree.jpg" width="700"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/darpan-chachpara-9886a116b">
@@ -18,9 +18,7 @@
 <div align="center">
   <img alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darpan-chachpara" alt="darpan-chachpara" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/darpanchachpara" target="blank"><img src="https://img.shields.io/twitter/follow/darpanchachpara?logo=twitter&style=for-the-badge" alt="darpanchachpara" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darpan-chachpara" alt="darpan-chachpara" /></a> </p> -->
 
 - 🔭 I’m currently working on **EdTech, FinTech**
 
