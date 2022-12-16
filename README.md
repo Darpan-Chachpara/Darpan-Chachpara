@@ -62,7 +62,7 @@ Nodejs <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.co
 Express <code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
 JavaScript <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>**
 
-- <img src="https://media2.giphy.com/media/GDs9d9ctyvm3KEfyFM/200w.webp?cid=ecf05e47o4b955prcczzw8v5y0srb10uk11mzfc4c6pkdrs8&rid=200w.webp&ct=s" width="35px"/>📫 How to reach me **darpanchachpara111@gmail.com**
+- <img src="https://media2.giphy.com/media/GDs9d9ctyvm3KEfyFM/200w.webp?cid=ecf05e47o4b955prcczzw8v5y0srb10uk11mzfc4c6pkdrs8&rid=200w.webp&ct=s" width="42px"/>How to reach me **darpanchachpara111@gmail.com**
 
 <!-- - <img src="assets/5.webp" width="35px"/>📄 Know about my experiences [https://tinyurl.com/app](https://tinyurl.com/app) -->
 
