@@ -41,13 +41,13 @@
 </br>
 <hr>
   
-- <img src="assets/7.webp" width="45px"/>I’m currently working on **EdTech, FinTech**
+- <img src="assets/7.webp" width="45px"/>  I’m currently working on **EdTech, FinTech**
 
-- <img src="assets/9.webp" width="45px"/>I’m currently learning **React, EIQ Hyper-Automation-Platform**
+- <img src="assets/9.webp" width="45px"/>  I’m currently learning **React, EIQ Hyper-Automation-Platform**
 
-- <img src="assets/11.webp" width="43px"/>I’m looking to collaborate on **Any Tech**
+- <img src="assets/11.webp" width="43px"/>  I’m looking to collaborate on **Any Tech**
 
-- <img src="assets/10.webp" width="40px"/> I’m looking for help with **MERN Stack** 
+- <img src="assets/10.webp" width="40px"/>  I’m looking for help with **MERN Stack** 
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
