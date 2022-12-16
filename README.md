@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darpanchachpara&style=flat-square&color=blue" alt=""/>
+  </div>
 <div>
   <img align="right" src="assets/1.gif" alt="darpan-chachpara" width="300"/>
   <img align="left" src="assets/2.gif" alt="darpan-chachpara" width="300"/>
