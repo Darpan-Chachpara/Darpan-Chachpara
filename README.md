@@ -36,7 +36,7 @@
 <a href="https://github.com/darpanchachpara/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/darpanchachpara/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a> -->
 
   
-  
+  </br>
   
 - 🔭 I’m currently working on **EdTech, FinTech**
 
