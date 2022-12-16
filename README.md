@@ -9,15 +9,20 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/darpanchachpara/count.svg" />
+</p>
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darpanchachpara&style=flat-square&color=blue" alt=""/>
-  </div>
+  </div> -->
 <div>
   <img align="right" src="assets/1.gif" alt="darpan-chachpara" width="300"/>
   <img align="left" src="assets/2.gif" alt="darpan-chachpara" width="300"/>
 </div>
  <h1>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DAARPAN CHACHPARA</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DARPAN CHACHPARA</h1>
 <h3 align="center">A passionate Software Engineer from India! Also freelancer 👨‍💻 working remotely since 2021 🚀</h3>
 <!-- <div align="center">
   <img alt="Coding" width="400" src="assets/4.gif">
