@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="assets/3.gif" width="200"/>
+  <img src="assets/3.webp" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/darpan-chachpara-9886a116b">
