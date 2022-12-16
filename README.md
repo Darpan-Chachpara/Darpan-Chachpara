@@ -64,7 +64,7 @@ JavaScript <code><img height="20" alt="javascript" src="https://raw.githubuserco
 
 - <img src="https://media2.giphy.com/media/l2QEd4romWZdXOlEY/200.webp?cid=ecf05e4754pl0557a2sq7x5whx0jxjbkgor2aadj9ntngmc4&rid=200.webp&ct=s" width="43px"/>How to reach me **darpanchachpara111@gmail.com**
 
-- <img src="https://media3.giphy.com/media/wiL7rnxKvoMC49kEZ5/200w.webp?cid=ecf05e473n5jrghwasxb8tpagcrco4km7fdealtc6c2lsx6t&rid=200w.webp&ct=s" width="43px"/>Know about my experiences [https://tinyurl.com/app](https://tinyurl.com/app)
+- <img src="https://media3.giphy.com/media/wiL7rnxKvoMC49kEZ5/200w.webp?cid=ecf05e473n5jrghwasxb8tpagcrco4km7fdealtc6c2lsx6t&rid=200w.webp&ct=s" width="50px"/> Know about my experiences [https://tinyurl.com/app](https://tinyurl.com/app)
 
 - <img src="https://media2.giphy.com/media/axVv1S6HHpU10oGQwU/200w.webp?cid=ecf05e474m0ltd3nv6nzktk6cqs3nwczp6y8yqu7lop7dnyc&rid=200w.webp&ct=s" width="43px"/>Fun fact **I use tabs over spaces**
 
