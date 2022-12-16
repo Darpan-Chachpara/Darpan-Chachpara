@@ -45,7 +45,7 @@
 
 - <img src="assets/9.webp" width="40px"/>I’m currently learning **React, EIQ Hyper-Automation-Platform**
 
-- <img src="https://media4.giphy.com/media/gF2m2JOyGReppog8hU/200w.webp?cid=ecf05e47t5m9aax7k6z25fc6dog41bhfk2jzk1ggchsz0gz4&rid=200w.webp&ct=s" width="38px"/>I’m looking to collaborate on **Any Tech**
+- <img src="assets/11.webp" width="38px"/>I’m looking to collaborate on **Any Tech**
 
 - <img src="assets/10.webp" width="35px"/> I’m looking for help with **MERN Stack** 
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
@@ -62,11 +62,11 @@ Nodejs <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.co
 Express <code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
 JavaScript <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>**
 
-- <img src="https://media2.giphy.com/media/l2QEd4romWZdXOlEY/200.webp?cid=ecf05e4754pl0557a2sq7x5whx0jxjbkgor2aadj9ntngmc4&rid=200.webp&ct=s" width="43px"/>How to reach me **darpanchachpara111@gmail.com**
+- <img src="assets/14.webp" width="43px"/>How to reach me **darpanchachpara111@gmail.com**
 
-- <img src="https://media3.giphy.com/media/wiL7rnxKvoMC49kEZ5/200w.webp?cid=ecf05e473n5jrghwasxb8tpagcrco4km7fdealtc6c2lsx6t&rid=200w.webp&ct=s" width="50px"/> Know about my experiences [https://tinyurl.com/app](https://tinyurl.com/app)
+- <img src="assets/16.webp" width="50px"/> Know about my experiences [https://tinyurl.com/app](https://tinyurl.com/app)
 
-- <img src="https://media2.giphy.com/media/axVv1S6HHpU10oGQwU/200w.webp?cid=ecf05e474m0ltd3nv6nzktk6cqs3nwczp6y8yqu7lop7dnyc&rid=200w.webp&ct=s" width="43px"/>Fun fact **I use tabs over spaces**
+- <img src="assets/15.webp" width="43px"/>Fun fact **I use tabs over spaces**
 
 <hr>
 
