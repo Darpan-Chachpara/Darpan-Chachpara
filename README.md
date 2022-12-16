@@ -45,7 +45,7 @@
 
 - <img src="assets/9.webp" width="45px"/>   &nbsp;I’m currently learning **React, EIQ Hyper-Automation-Platform**
 
-- <img src="assets/11.webp" width="43px"/>   &nbsp;I’m looking to collaborate on **Any Tech**
+- <img src="assets/11.webp" width="43px"/>    &nbsp;&nbsp;I’m looking to collaborate on **Any Tech**
 
 - <img src="assets/10.webp" width="40px"/>   &nbsp; &nbsp;I’m looking for help with **MERN Stack** 
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
@@ -53,7 +53,7 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-- <img src="assets/12.webp" width="40px"/>  All of my projects are available at [https://github.com/Darpan-Chachpara?tab=repositories](https://github.com/Darpan-Chachpara?tab=repositories)
+- <img src="assets/12.webp" width="40px"/>   &nbsp; &nbsp; &nbsp;All of my projects are available at [https://github.com/Darpan-Chachpara?tab=repositories](https://github.com/Darpan-Chachpara?tab=repositories)
 
 - <img src="assets/13.webp" width="40px"/>     &nbsp;&nbsp;&nbsp;Ask me about 
 **MongoDB <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
