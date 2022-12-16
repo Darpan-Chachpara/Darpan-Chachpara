@@ -45,7 +45,7 @@
 
 - <img src="assets/9.webp" width="35px"/> I’m currently learning **React, EIQ Hyper-Automation-Platform**
 
-- <img src="https://media4.giphy.com/media/gF2m2JOyGReppog8hU/200w.webp?cid=ecf05e47t5m9aax7k6z25fc6dog41bhfk2jzk1ggchsz0gz4&rid=200w.webp&ct=s" width="35px"/>👯 I’m looking to collaborate on **Any Tech**
+- <img src="https://media4.giphy.com/media/gF2m2JOyGReppog8hU/200w.webp?cid=ecf05e47t5m9aax7k6z25fc6dog41bhfk2jzk1ggchsz0gz4&rid=200w.webp&ct=s" width="35px"/> I’m looking to collaborate on **Any Tech**
 
 - <img src="assets/10.webp" width="35px"/> I’m looking for help with **MERN Stack** 
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
@@ -53,7 +53,7 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-- <img src="assets/12.webp" width="35px"/> All of my projects are available at [https://github.com/Darpan-Chachpara?tab=repositories](https://github.com/Darpan-Chachpara?tab=repositories)
+- <img src="assets/12.webp" width="38px"/>All of my projects are available at [https://github.com/Darpan-Chachpara?tab=repositories](https://github.com/Darpan-Chachpara?tab=repositories)
 
 - <img src="assets/13.webp" width="35px"/> Ask me about 
 **MongoDB <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
@@ -62,7 +62,7 @@ Nodejs <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.co
 Express <code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
 JavaScript <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>**
 
-- <img src="assets/14.webp" width="35px"/>📫 How to reach me **darpanchachpara111@gmail.com**
+- <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e47o4b955prcczzw8v5y0srb10uk11mzfc4c6pkdrs8&rid=giphy.webp&ct=s" width="35px"/>📫 How to reach me **darpanchachpara111@gmail.com**
 
 <!-- - <img src="assets/5.webp" width="35px"/>📄 Know about my experiences [https://tinyurl.com/app](https://tinyurl.com/app) -->
 
