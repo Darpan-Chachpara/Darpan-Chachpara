@@ -45,7 +45,7 @@
 
 - <img src="assets/9.webp" width="35px"/> I’m currently learning **React, EIQ Hyper-Automation-Platform**
 
-- <img src="[assets/11.webp](https://media4.giphy.com/media/PzT0L9xHZAzzoCtWb0/200.webp?cid=ecf05e47t5m9aax7k6z25fc6dog41bhfk2jzk1ggchsz0gz4&rid=200.webp&ct=s)" width="35px"/>👯 I’m looking to collaborate on **Any Tech**
+- <img src="https://media4.giphy.com/media/PzT0L9xHZAzzoCtWb0/200.webp?cid=ecf05e47t5m9aax7k6z25fc6dog41bhfk2jzk1ggchsz0gz4&rid=200.webp&ct=s" width="35px"/>👯 I’m looking to collaborate on **Any Tech**
 
 - <img src="assets/10.webp" width="35px"/> I’m looking for help with **MERN Stack** 
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
@@ -53,7 +53,7 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-- <img src="assets/12.webp" width="38px"/> All of my projects are available at [https://github.com/Darpan-Chachpara?tab=repositories](https://github.com/Darpan-Chachpara?tab=repositories)
+- <img src="assets/12.webp" width="40px"/> All of my projects are available at [https://github.com/Darpan-Chachpara?tab=repositories](https://github.com/Darpan-Chachpara?tab=repositories)
 
 - <img src="assets/13.webp" width="35px"/> Ask me about 
 **MongoDB <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
