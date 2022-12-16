@@ -19,8 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=darpanchachpara&style=flat-square&color=blue" alt=""/>
   </div> -->
 <div>
-  <img align="right" src="assets/1.gif" alt="darpan-chachpara" width="300"/>
-  <img align="left" src="assets/2.gif" alt="darpan-chachpara" width="400"/>
+  <img align="right" src="assets/1.gif" alt="darpan-chachpara" width="350"/>
+  <img align="left" src="assets/2.gif" alt="darpan-chachpara" width="300"/>
 </div>
  <h1>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DARPAN CHACHPARA</h1>
