@@ -23,7 +23,7 @@
   <img align="left" src="assets/2.gif" alt="darpan-chachpara" width="300"/>
 </div>
 <h1 align="center">Hi <img src="assets/5.webp" width="30px"/> I'm DARPAN CHACHPARA</h1>
-<h3 align="center">A passionate Software Engineer from India! Also freelancer <img src="assets/6.webp" width="30px"/>👨‍💻 working remotely since 2021 🚀</h3>
+<h3 align="center">A passionate Software Engineer from India! Also freelancer <img src="assets/8.webp" width="40px"/>👨‍💻 working remotely since 2021 <img src="assets/6.webp" width="40px"/>🚀</h3>
 <!-- <div align="center">
   <img alt="Coding" width="400" src="assets/4.gif">
 </div> -->
