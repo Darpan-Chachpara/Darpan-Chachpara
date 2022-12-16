@@ -17,7 +17,6 @@
   <img align="left" src="assets/2.gif" alt="darpan-chachpara" width="300"/>
 </div>
  <h1>
-  <p align="center"><a href="github_url"><img width="30%" alt="Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" I'm DARPAN CHACHPARA./></a></p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DAARPAN CHACHPARA</h1>
 <h3 align="center">A passionate Software Engineer from India! Also freelancer 👨‍💻 working remotely since 2021 🚀</h3>
 <!-- <div align="center">
@@ -43,7 +42,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Darpan-Chachpara?tab=repositories](https://github.com/Darpan-Chachpara?tab=repositories)
 
-- 💬 Ask me about **React, Nodejs, MongoDB, Express**
+- 💬 Ask me about **React, Nodejs, MongoDB, Express, JavaScript**
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 - 📫 How to reach me **darpanchachpara111@gmail.com**
 
