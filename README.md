@@ -83,9 +83,10 @@ JavaScript <code><img height="20" alt="javascript" src="https://raw.githubuserco
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darpan-chachpara&show_icons=true&locale=en&layout=compact" alt="darpan-chachpara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darpan-chachpara&show_icons=true&locale=en" alt="darpan-chachpara" /></p> -->
-
+<div align="center">
 | <a href="https://github.com/darpan-chachpara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=darpan-chachpara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/darpan-chachpara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darpan-chachpara&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+  </div>
 <div align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=darpan-chachpara&" alt="darpan-chachpara" /></p>
 </div>
