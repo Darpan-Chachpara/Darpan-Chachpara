@@ -66,7 +66,7 @@ JavaScript <code><img height="20" alt="javascript" src="https://raw.githubuserco
 
 <!-- - <img src="assets/5.webp" width="35px"/>📄 Know about my experiences [https://tinyurl.com/app](https://tinyurl.com/app) -->
 
-- <img src="https://media2.giphy.com/media/axVv1S6HHpU10oGQwU/200w.webp?cid=ecf05e474m0ltd3nv6nzktk6cqs3nwczp6y8yqu7lop7dnyc&rid=200w.webp&ct=s" width="40px"/>Fun fact **I use tabs over spaces**
+- <img src="https://media2.giphy.com/media/axVv1S6HHpU10oGQwU/200w.webp?cid=ecf05e474m0ltd3nv6nzktk6cqs3nwczp6y8yqu7lop7dnyc&rid=200w.webp&ct=s" width="43px"/>Fun fact **I use tabs over spaces**
 
 <hr>
 
