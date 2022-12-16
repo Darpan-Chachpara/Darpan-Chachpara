@@ -45,7 +45,7 @@
 
 - <img src="assets/9.webp" width="35px"/> I’m currently learning **React, EIQ Hyper-Automation-Platform**
 
-- <img src="assets/11.webp" width="60px"/>👯 I’m looking to collaborate on **Any Tech**
+- <img src="https://media4.giphy.com/media/gF2m2JOyGReppog8hU/200w.webp?cid=ecf05e47t5m9aax7k6z25fc6dog41bhfk2jzk1ggchsz0gz4&rid=200w.webp&ct=s"/>👯 I’m looking to collaborate on **Any Tech**
 
 - <img src="assets/10.webp" width="35px"/> I’m looking for help with **MERN Stack** 
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
