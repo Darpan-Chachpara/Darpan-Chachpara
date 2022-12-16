@@ -64,7 +64,7 @@ JavaScript <code><img height="20" alt="javascript" src="https://raw.githubuserco
 
 - <img src="assets/14.webp" width="50px"/> How to reach me **darpanchachpara111@gmail.com**
 
-- <img src="assets/16.webp" width="50px"/> Know about my experiences **Coming Soon...**
+- <img src="assets/16.webp" width="50px"/> Know about my experiences https://github.com/Darpan-Chachpara/Darpan-Chachpara/blob/main/assets/Darpan_Chachpara_Resume.pdf
 
 - <img src="assets/15.webp" width="50px"/> Fun fact **I use tabs over spaces**
 
