@@ -17,11 +17,12 @@
   <img align="left" src="assets/2.gif" alt="darpan-chachpara" width="300"/>
 </div>
  <h1>
+  <p align="center"><a href="github_url"><img width="30%" alt="Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" I'm DARPAN CHACHPARA./></a></p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DAARPAN CHACHPARA</h1>
 <h3 align="center">A passionate Software Engineer from India! Also freelancer 👨‍💻 working remotely since 2021 🚀</h3>
-<div align="center">
+<!-- <div align="center">
   <img alt="Coding" width="400" src="assets/4.gif">
-</div>
+</div> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darpan-chachpara" alt="darpan-chachpara" /></a> </p> -->
 <!--   <a href="https://github.com/darpanchachpara/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/darpanchachpara/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/darpanchachpara/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/darpanchachpara/awesome-github-profile-readme" alt="Forks Badge"/></a>
