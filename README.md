@@ -9,9 +9,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div>
-  <img align="right" src="assets/1.gif" alt="darpan-chachpara" />
-  <img align="left" src="assets/2.gif" alt="darpan-chachpara" />
+<div align="right">
+  <img src="assets/1.gif" alt="darpan-chachpara" />
+</div>
+<div align="left">
+  <img src="assets/2.gif" alt="darpan-chachpara" />
 </div>
  <h1>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm DAARPAN CHACHPARA</h1>
